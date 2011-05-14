@@ -3,6 +3,7 @@
 * Enables support for using DataTableScroll plugin when data is lazy loaded (e.g. when using a datasource).
 * Ticket URL - http://yuilibrary.com/projects/yui3/ticket/2529808
 * 
+* Thanks to eamonb a.k.a mosen for his peer review and help testing
 * @requires datatable-scroll
 */
 
